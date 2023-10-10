@@ -1,0 +1,61 @@
+bid,title,author,category,quantity
+ART101,Thinking with type,Ellen Lupton,Arts,5
+AUT101,My Experiments with Truth,Mahatma Gandhi,Autobiography,5
+AUT102,Wings Of Fire,APJ Abdul Kalam,Autobiography,15
+AUT103,Long Walk To Freedom,Nelson Mandela,Autobiography,23
+AUT104,The Dairy Of Young Girl,Anne Frank,Autobiography,23
+AUT105,Mark Twain,Mark Twain,Autobiography,7
+AUT106,Mein Kampf,Adolf Hitler,Autobiography,7
+BIO101,Steve Jobs,Walter Issacson,Biography,5
+BIO102,A Beautiful Mind ,Sylvia Nasar,Biography,22
+BIO103,The Enigma,Andrew Hodges,Biography,22
+BIO104,Alexander Hamilton,Ron Chernow,Biography,22
+BIO105,Barracoon,Zora Neale Hurston,Biography,22
+BIO106,CHURCHILL : A Life,MArtin Glibert,Biography,22
+BUS101,Rich Dad Poor Dad,Robert T. Kiyosaki,Business,20
+ECO101,Think and Grow,Napoleon Hill,Economics,5
+ECO102,Freakonomics,Steveb D.Levit,Economics,7
+ECO103,Thinking Fast and Slow,Daniel Kahneman,Economics,7
+ECO104,Tell You About Capitalism,HA-Joon Chang,Economics,7
+ECO105,Animal Spirits,Akerlof and Shiller,Economics,7
+ECO106,The Black Swan,Nassim Nicholas Taleb,Economics,7
+EDU101,Object Oriented Programming with C++,E Balagurusamy,Education,5
+EDU102,Python For All,John Shovic,Education,15
+EDU103,Automate The Boring Stuff With Python,Al Sweigart,Education,15
+FAN101,Immortals of Meluha,Amish Tirpathi,Fantasy,15
+FIC101,City of Heavenly Fire,Cassandra Clare,Fiction,5
+FIC102,Da Vinci Code,Dan Brown,Fiction,15
+FIC103,Lord Of Files,William Golding,Fiction,10
+FIC104,Loara Dune,R. D Blackmore,Fiction,10
+FIC105,Jamacia Inn,Daphne,Fiction,10
+FIC106,Kidnapped,Robert Louis,Fiction,10
+FIC107,Treasure Island,Robert Louis,Fiction,10
+FIC108,The Call Of Wild,Jack London,Fiction,12
+FIC109,Charlottes Web,E. B White,Fiction,12
+FIC110,The Wind In Willows,Kenneth Grahame,Fiction,12
+HEA101,Eat to Live,Joel Fuhrman,Health,5
+HIS101,Les Misérables,Victor Hugo,History,22
+HIS102,Discovery of India,Jawaharlal Nehru,History,5
+HIS103,History Of 20th Century,Martin Gilbert,History,11
+HIS105,A World lit Only by Fire,William Manchestar,History,11
+HIS106,The Crusades ,Thomas Asbridge,History,11
+HIS107,Over The Edge Of The World,Laurence,History,22
+LAW101,A Theory of Justice,John Rawls,Law,5
+MAN101,The Fifth Discipline : The Art,Peter M.Senge,Management,5
+NOV101,A Tale of Two Cities,Charles Dickens,Novel,22
+PDE101,Ikigai,Hector Garcia,Personal Development,15
+PDE102,Who Will Cry When You Will Die,Robin Sharma,Personal Development,15
+PHI101,War and Peace,Leo Tolstoy,Philosophy,15
+PHI102,Being and Time,Martin Heldegger,Philosophy,12
+PHI103,The Republic,Rocha Pereia,Philosophy,12
+PHI104,Critique For Pure Reason,Paul Guyer,Philosophy,12
+PHI105,The Prince,Rufus Godwin,Philosophy,12
+PHI106,Ethics,Stuart Hampshire,Philosophy,12
+PHO101,The Photographer's,Lindsay Adler,Photography,5
+SPA101,A Brief History Of Time,Stephen Hawking,SPACE,15
+STO101,I Know Why The Cage Bird Sings,Maya Anguelo,Story,10
+STO102,1984,George Orwell,Story,7
+STO103,The Lord Of Wings ,J.R.R.Tolken,Story,7
+STO104,Kite Runner,Khaled Hosseini,Story,11
+STO105,Harry Potter,J.K.Rowling,Story,11
+STO106,The Book Theif,Markus Zusak,Story,11
