@@ -29,7 +29,7 @@ The Library Management System offers the following features:
 
 ## How to Use
 
-1. Download the compiled executable for Windows from the [library_management_system.exe](#) file.
+1. Download the compiled executable for Windows from the [library_management_system.exe](https://github.com/TheFastest599/library-managenent-system/releases/) file.
 
 2. Run the executable by double-clicking on it or using the command line.
 
@@ -39,7 +39,7 @@ The Library Management System offers the following features:
 
 ## Compiled Executable
 
-You can download the compiled executable for Windows: [library_management_system.exe](#).
+You can download the compiled executable for Windows: [library_management_system.exe](https://github.com/TheFastest599/library-managenent-system/releases/).
 
 ## Code Overview
 
